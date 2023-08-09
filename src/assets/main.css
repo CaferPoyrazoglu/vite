@@ -2,8 +2,7 @@
 @import './google-material.css';
 
 #app {
-    max-width: 500px;
+  max-width: 500px;
   margin: 0 auto;
   padding: 2rem;
 }
-
